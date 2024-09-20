@@ -52,10 +52,7 @@ See [Contributing Guide](https://github.com/vitejs/vite/blob/main/CONTRIBUTING.m
 
 MIT
 
-## Sponsors
+## KSH
 
-<p align="center">
-  <a target="_blank" href="https://github.com/sponsors/yyx990803">
-    <img alt="sponsors" src="https://sponsors.vuejs.org/vite.svg">
-  </a>
-</p>
+- https://github.com/yanyue404/vite/tree/v2_ksh/packages/playground/ssr-vue
+
